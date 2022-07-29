@@ -1,0 +1,11 @@
+C:\Users\Aluno\Desktop\INF9 Igor\FrontEndWindowsForms\ExercicioCalculoFrete\ExercicioCalculoFrete\bin\Debug\ExercicioCalculoFrete.exe.config
+C:\Users\Aluno\Desktop\INF9 Igor\FrontEndWindowsForms\ExercicioCalculoFrete\ExercicioCalculoFrete\bin\Debug\ExercicioCalculoFrete.exe
+C:\Users\Aluno\Desktop\INF9 Igor\FrontEndWindowsForms\ExercicioCalculoFrete\ExercicioCalculoFrete\bin\Debug\ExercicioCalculoFrete.pdb
+C:\Users\Aluno\Desktop\INF9 Igor\FrontEndWindowsForms\ExercicioCalculoFrete\ExercicioCalculoFrete\obj\Debug\ExercicioCalculoFrete.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\INF9 Igor\FrontEndWindowsForms\ExercicioCalculoFrete\ExercicioCalculoFrete\obj\Debug\ExercicioCalculoFrete.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\Desktop\INF9 Igor\FrontEndWindowsForms\ExercicioCalculoFrete\ExercicioCalculoFrete\obj\Debug\ExercicioCalculoFrete.Form1.resources
+C:\Users\Aluno\Desktop\INF9 Igor\FrontEndWindowsForms\ExercicioCalculoFrete\ExercicioCalculoFrete\obj\Debug\ExercicioCalculoFrete.Properties.Resources.resources
+C:\Users\Aluno\Desktop\INF9 Igor\FrontEndWindowsForms\ExercicioCalculoFrete\ExercicioCalculoFrete\obj\Debug\ExercicioCalculoFrete.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\INF9 Igor\FrontEndWindowsForms\ExercicioCalculoFrete\ExercicioCalculoFrete\obj\Debug\ExercicioCalculoFrete.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\INF9 Igor\FrontEndWindowsForms\ExercicioCalculoFrete\ExercicioCalculoFrete\obj\Debug\ExercicioCalculoFrete.exe
+C:\Users\Aluno\Desktop\INF9 Igor\FrontEndWindowsForms\ExercicioCalculoFrete\ExercicioCalculoFrete\obj\Debug\ExercicioCalculoFrete.pdb
